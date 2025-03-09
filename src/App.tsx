@@ -12,7 +12,7 @@ function App() {
       <Provider store={store}>
         <div className="App">
           <header className="App-header">
-            <h1>Monk Commerce - Product Bundle Manager</h1>
+            <h1>Monk Commerce</h1>
           </header>
           <main>
             <ProductBundleManager />

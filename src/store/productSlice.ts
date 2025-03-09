@@ -30,11 +30,11 @@ export const fetchProducts = createAsyncThunk(
         },
       }
     );
-    
+
     if (!response.ok) {
       throw new Error('Failed to fetch products');
     }
-    
+
     return await response.json();
   }
 );
@@ -55,8 +55,8 @@ const productSlice = createSlice({
       state,
       action: PayloadAction<{
         id: string;
-        discount: { 
-          type: 'flat' | 'percentage'; 
+        discount: {
+          type: 'flat' | 'percentage';
           value: number;
           variantId?: number;
         };
