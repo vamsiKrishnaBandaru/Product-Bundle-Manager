@@ -4,6 +4,8 @@ A React application for managing product bundles with drag-and-drop functionalit
 
 Website: https://product-bundle-manager.vercel.app
 
+![image](https://github.com/user-attachments/assets/bfca2489-801f-40d5-9870-cd5537de4b35)
+
 ## Features
 
 - Product bundle creation and management
