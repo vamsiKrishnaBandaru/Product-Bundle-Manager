@@ -141,7 +141,7 @@ const ProductBundleManager: React.FC = () => {
       overflow: 'scroll',
       scrollbarWidth: 'none',
     }}>
-      <h4>Product List</h4>
+      <h4>Products</h4>
       <div style={{ display: 'flex', justifyContent: 'space-around', fontWeight: 500 }}>
         <div>Product Name</div>
         <div>Discount</div>
