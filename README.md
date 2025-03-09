@@ -1,8 +1,8 @@
-# Monk Commerce Product Bundle Manager
+# Commerce Product Bundle Manager
 
 A React application for managing product bundles with drag-and-drop functionality and variant management.
 
-![Monk Commerce Logo](https://images.yourstory.com/cs/images/companies/1635326651486-1697707771816.jpg?fm=auto&ar=1%3A1&mode=fill&fill=solid&fill-color=fff&format=auto&w=256&q=75)
+Website: https://product-bundle-manager.vercel.app
 
 ## Features
 
@@ -40,7 +40,7 @@ npm start
 
 ## API Integration
 
-The application integrates with the Monk Commerce API for product data. API key is required for authentication.
+The application integrates with the Commerce API for product data. The API key is required for authentication.
 
 ## Build
 
